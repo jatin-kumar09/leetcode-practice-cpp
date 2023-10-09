@@ -1,3 +1,8 @@
+/*
+Runtime: 29ms
+Memory: 8.4MB
+*/
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
