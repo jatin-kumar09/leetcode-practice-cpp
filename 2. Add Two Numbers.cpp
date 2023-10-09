@@ -1,3 +1,9 @@
+
+/*
+Runtime: 41ms
+Memory: 71.4MB
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
